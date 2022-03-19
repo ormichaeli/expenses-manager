@@ -1,9 +1,13 @@
 # Expenses Manager App
 
-[![N|Solid](assets/Add.png)](assets/Add.png)
-
-
 The Expenses Manager App organises your expenses per month and year, and allows you to review them in a visual graph.
+
+### View expenses
+[![N|Solid](assets/view.png)](assets/view.png)
+
+
+### Add new expense
+[![N|Solid](assets/Add.png)](assets/Add.png)
 
 ## Features
 
